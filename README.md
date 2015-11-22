@@ -51,18 +51,18 @@ The txt file will point to a directory and list the image names used for reconst
 Format of the txt file for the input image names should be:
 
 ```
-frame1
-frame2
+dir/frame1
+dir/frame2
 ...
-frame N (without format extension)
+dir/frame N (without format extension)
 ```
 
 For each image name, it should point to four files with the following names:
 ```
-Depth image:     frame1_depth.png 
-RGB image:       frame1_rgb.png 
-Mask image:      frame1_mask.png    #pre-Segmentated mask, segmentation is not included in the source code
-Location file:   frame1_loc.txt     #(optional) cropping location indication if the image is cropped
+Depth image:     framex_depth.png 
+RGB image:       framex_rgb.png 
+Mask image:      framex_mask.png    #pre-Segmentated mask, segmentation is not included in the source code
+Location file:   framex_loc.txt     #(optional) cropping location indication if the image is cropped
 ```
 
 
