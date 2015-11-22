@@ -2,10 +2,7 @@ project(reconstruct)
 cmake_minimum_required (VERSION 2.8)
 
 #opencv 
-set(OpenCV_INSTALL_PATH "/home/jxie/jun/software/OPENCV_INSTALL")
-find_package(OpenCV 2.4.9 REQUIRED PATHS ${OpenCV_INSTALL_PATH})
-
-#find_package(OpenCV 2.4.9 REQUIRED)
+find_package(OpenCV 2.4 REQUIRED)
 
 #pcl
 find_package(PCL 1.7 REQUIRED)
