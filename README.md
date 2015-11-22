@@ -18,7 +18,7 @@ Asia-Pacific Signal and Information Processing Association Annual Summit and Con
 
 Building Environment
 -------------------------
-Building requires CMake, OPENCV, and PCL(http://pointclouds.org/downloads/) cross platform toolkit. Recommended OPENCV version is 2.4.x (3.x may not work!) and recommended PCL version is 1.7. The program has been tested to successfully build on Ubuntu 14.04 with OPENCV 2.4.9, PCL 1.7.1 installed. 
+Building requires CMake, OpenCV, and [PCL](http://pointclouds.org/downloads/) cross platform toolkit. The recommended OpenCV version is 2.4.x (3.x may not work!) and the recommended PCL version is 1.7. The program has been tested to successfully build on Ubuntu 14.04 with OPENCV 2.4.9, PCL 1.7.1 installed. 
 
 To build the code
 ```
