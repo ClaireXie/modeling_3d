@@ -27,11 +27,12 @@ cd build
 cmake ..
 make
 ```
+If there are no erros, a binary called reconstruct will be built. 
 
 How to Run
 ------------------------
 ```
-$./reconstruct -[dir of txt file for the input image names]  [options]
+$reconstruct -[dir of txt file for the input image names]  [options]
 ```
 
 Options:
@@ -68,7 +69,7 @@ Location file:   framex_loc.txt     #(optional) cropping location indication if 
 
 An exmaple command is   
 ```
-$./align ../resources/ -g -dn -vd 0.001 -m
+$reconstruct ../resources/ -g -dn -vd 0.001 -m
 ```
 A few of [RGB-D data](http://rgbd-dataset.cs.washington.edu/) has been provided in resources/ in order to run the damo.
 
