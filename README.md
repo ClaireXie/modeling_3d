@@ -6,11 +6,11 @@ This package is designed to use RGB-D images for 3D object reconstruction.
 
 If you use this code for your reasearch, please cite the following papers:
 ```
-J. Xie, Y.F. Hsu, R. Feris, M.T. Sun, 
+[1] J. Xie, Y.F. Hsu, R. Feris, M.T. Sun, 
 "Fine registration of 3D point clouds fusing structural and photometric information using an RGB-D camera," 
 Journal of Visual Communication and Image Representation (JVCI), vol. 32, pp. 194-204, Oct. 2015.
 
-M. Jaiswal, J. Xie and M.T. Sun, 
+[2] M. Jaiswal, J. Xie and M.T. Sun, 
 "3D Object Modeling with a Kinect Camera," 
 Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC) 2014.
 ```
