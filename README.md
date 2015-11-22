@@ -14,7 +14,7 @@ Journal of Visual Communication and Image Representation (JVCI), vol. 32, pp. 19
 "3D Object Modeling with a Kinect Camera," 
 Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC) 2014.
 ```
-
+[This](https://sites.google.com/site/junxie302/code-sample-for-object-modeling-with-an-rgbd-images) webpage show a few demo of the sample code. 
 
 Building Environment
 -------------------------
