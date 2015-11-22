@@ -71,7 +71,7 @@ An exmaple command is
 ```
 $reconstruct ../resources/ -g -dn -vd 0.001 -m
 ```
-A few of [RGB-D data](http://rgbd-dataset.cs.washington.edu/) has been provided in resources/ in order to run the damo.
+A few of [RGB-D data](http://rgbd-dataset.cs.washington.edu/) has been provided in resources/ in order to run the demo.
 
 
 
