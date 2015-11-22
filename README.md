@@ -1,4 +1,4 @@
-This is a simple demo for 3D Object Modeling based on RGB-D camera 
+This is a simple demo for 3D Object Modeling based on an RGB-D camera 
 
 General Notes
 -------------------------
