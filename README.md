@@ -68,7 +68,7 @@ Location file:   frame1_loc.txt     #(optional) cropping location indication if 
 
 An exmaple command is   
 ```
-$./align resources/input.txt -g -dn -vd 0.001 -m
+$./align ../resources/ -g -dn -vd 0.001 -m
 ```
 A few of [RGB-D data](http://rgbd-dataset.cs.washington.edu/) has been provided in resources/ in order to run the damo.
 
